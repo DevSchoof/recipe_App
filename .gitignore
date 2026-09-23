@@ -1,0 +1,119 @@
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.build/
+.buildlog/
+.history
+.svn/
+.swiftpm/
+migrate_working_dir/
+
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# The .vscode folder contains launch configuration and tasks you configure in
+# VS Code which you may wish to be included in version control, so this line
+# is commented out by default.
+#.vscode/
+
+# Flutter/Dart/Pub related
+**/doc/api/
+**/ios/Flutter/.last_build_id
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+/build/
+/coverage/
+
+# Symbolication related
+app.*.symbols
+
+# Obfuscation related
+app.*.map.json
+
+# Android Studio will place build artifacts here
+/android/app/debug
+/android/app/profile
+/android/app/release
+
+# Android specific
+**/android/.gradle/
+**/android/local.properties
+**/android/**/GeneratedPluginRegistrant.java
+**/android/gradle-wrapper.jar
+
+# iOS/macOS specific
+**/ios/Pods/
+**/ios/Podfile.lock
+**/ios/.symlinks/
+**/ios/Flutter/Flutter.framework
+**/ios/Flutter/Flutter.podspec
+**/ios/**/xcuserdata/
+**/ios/**/*.xcworkspace/
+**/macos/Flutter/Flutter-Release.xcconfig
+**/macos/Flutter/Flutter-Debug.xcconfig
+**/macos/Flutter/GeneratedPluginRegistrant.swift
+
+# Widget Preview related
+.widget_preview/
+
+# Environment & Secrets
+.env
+.env.local
+.env.*.local
+*.pem
+*.key
+*.p12
+*.keystore
+
+# IDE & Editor
+.vscode/
+*.sublime-workspace
+*.sublime-project
+.classpath
+.c9/
+*.launch
+.settings/
+
+# OS Specific
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Temporary files
+*.tmp
+*.temp
+*~
+.#*
+
+# FVM (Flutter Version Manager) - uncomment if using FVM
+# .fvm/flutter_sdk
+
+# Project Specific
+image.png
+*.png.bak
+screenshots/
+test_results/
+
+# Compiled code
+lib/generated_plugin_registrant.dart
+
+# pubspec.lock - Uncomment if this is a library, not an app
+# pubspec.lock
+
+# Flutter
+.metadata
+
+# Temporary/Test files
+image.png
+*.png.bak
