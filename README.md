@@ -72,8 +72,21 @@ recipe_app/
 │   └── utils/
 │       ├── theme.dart                # ThemeData do app
 │       └── constants.dart            # Dados mockados (sem backend)
+├── docs/
+│   ├── DishDash — Apresentação do Projeto.pdf
+│   ├── DishDash — Apresentação do Projeto.pptx
+│   └── *.png                         # Capturas de tela do app em funcionamento
 └── pubspec.yaml
+
 ```
+
+---
+
+## 🎤 Apresentação
+
+- Os slides da apresentação estão em `docs/`, nos formatos **PDF** e **PPTX**.
+- A pasta também reúne capturas de tela reais do app em execução (splash, lista, formulário e detalhes da receita), usadas como evidência da fidelidade ao leiaute do Figma.
+
 
 ---
 
