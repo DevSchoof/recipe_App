@@ -117,3 +117,5 @@ lib/generated_plugin_registrant.dart
 # Temporary/Test files
 image.png
 *.png.bak
+
+.~lock.*#
